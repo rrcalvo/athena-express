@@ -1,5 +1,5 @@
 {
-  "name": "athena-express",
+  "name": "rrcalvo-fix-athena-express",
   "version": "6.0.4",
   "description": "Athena-Express makes it easier to execute SQL queries on Amazon Athena by consolidating & astracting several methods in the AWS SDK",
   "main": "./lib/index.js",

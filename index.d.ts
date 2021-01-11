@@ -1,4 +1,4 @@
-declare module 'athena-express' {
+declare module 'rrcalvo-fix-athena-express' {
     import * as aws from 'aws-sdk';
     interface ConnectionConfigInterface {
         aws: typeof aws;
